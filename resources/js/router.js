@@ -3,7 +3,7 @@ import { createWebHistory, createRouter } from "vue-router";
 import home from './pages/Home.vue';
 import FolderCreate from './pages/folder/Create.vue';
 import folderEdit from './pages/folder/Edit.vue';
-import fileList from './pages/folder/FileList.vue';
+import fileList from './pages/folder/Filelist.vue';
 
 const routes = [
     {
